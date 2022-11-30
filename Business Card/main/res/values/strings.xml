@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Aniq Hazim</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="phone_number">01128265194</string>
+    <string name="email_text">Aniqhazim20@gmail.com</string>
+    <string name="share_text">Aniq@android.com</string>
+</resources>
